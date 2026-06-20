@@ -201,35 +201,9 @@ To break free from the traditional coordinates of space and time, the history of
     - *自律的エゴ*: ロマン主義的な芸術的ジーニアス（ポロックの身体的アクション、デュシャンの単独のレディメイド選択、創作版画の「自画・自刻・自刷」）。
     - *協働・分散*: 伝統的な共同出版工房（新版画の版元・彫師・摺師による分業）、国際的ネットワーク（フルクサスのメール・アート）、ネット上のデジタル協働（オープンソース・コード、Pixivなどの共同の画像プール）。
 
----
-
-# Editorial Rules / 編集ルール
-
-To maintain visual clarity and a premium design, we follow these strict formatting guidelines:
-
-- **Bolding / 太字**:
-  - Limit bolding strictly to the **first introduction** of a major historical term, concept, or document title (e.g., **techne**, **fine arts**).
-  - Never repeat bolding of a term on the same page.
-  - In Japanese text, place bold markers inside brackets: `「**自由七科**」` instead of `**「自由七科」**`.
-  - 太字の使用は、主要な歴史的用語、概念、または文献のタイトル（例：**techne**、**fine arts**）の**最初の導入時**に限定します。
-  - 同一ページ内で同じ語を二度以上太字にしないでください。
-  - 日本語の文章では、太字マーカーを括弧の内側に配置します（例：`「**自由七科**」`）。
-
-- **Quotation Marks / 引用符**:
-  - Use quotation marks strictly for literal, direct quotes from historical figures or texts.
-  - Never use quotation marks as air quotes for emphasis or irony.
-  - Use standard double quotes (`"..."`) in English and corner brackets (`「...」`) in Japanese. Do not mix them.
-  - 引用符は、歴史的人物やテキストからの文脈に即した直接的な引用にのみ使用します。
-  - 強調や皮肉のために引用符を使用しないでください。
-  - 英語では標準 of 二重引用符（`"..."`）、日本語では鍵括弧（`「...」`）を使用し、これらを混在させないでください。
-
-- **Headings / 見出し**:
-  - Frame headings as storytelling, evocative questions or concrete phrases (the **Gombrich Rule**).
-  - Banish all academic labels (e.g., "Introduction:", "Conclusion:") and numbering (e.g., "1.").
-  - 見出しは、ストーリーを想起させるような問いかけや、具体的なフレーズにします（**ゴンブリッチ・ルール**）。
-  - アカデミックなラベル（例：「はじめに」「おわりに」）や、見出し番号（例：「1.」）は一切使用しません。
 
 ---
+
 
 # Sources / 情報源
 - Shiner, Larry. *The Invention of Art: A Cultural History*. Chicago: University of Chicago Press, 2001.
