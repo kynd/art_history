@@ -1,0 +1,32 @@
+# Standard Node / Dependency Rules
+node_modules/
+package-lock.json
+
+# Astro / Build Output
+.astro/
+dist/
+
+# Environmental Variables
+.env
+.env.*
+
+# OS / IDE Specific Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Antigravity & Gemini Specific Customizations / Instructions
+.agents/
+.antigravity.md
