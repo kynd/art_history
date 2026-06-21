@@ -3,7 +3,7 @@ import { visit } from 'unist-util-visit';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 
-const BASE = '';
+const BASE = '/art-history';
 
 function remarkRebaseLinks() {
   return (tree) => {
@@ -43,6 +43,7 @@ function rehypeImageSize() {
 }
 
 export default defineConfig({
+  base: '/art-history',
   markdown: {
     remarkPlugins: [remarkRebaseLinks, remarkMath],
     rehypePlugins: [rehypeImageSize, rehypeRebaseVideoSrc, rehypeKatex],
