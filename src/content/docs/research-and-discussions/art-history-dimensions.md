@@ -28,7 +28,7 @@ The horizontal axis maps how concurrent historical, technological, and cultural 
 ### 1900年代〜1910年代：産業の衝撃と機械の時代
 - **Socio-Political Context / 社会・政治的文脈**: World War I (1914–1918) and the Russian Revolution (1917) shattered 19th-century optimism. Rapid urbanization and the rise of factory assembly lines transformed human labor.
 - **Media & Technology / メディアと技術**: The proliferation of early cinema, mechanical recording, and early aviation.
-- **Fine Art Developments / 美術の動向**: Fauvism and Cubism deconstructed color and perspective in Paris, while Futurism in Italy celebrated speed and machinery. Dada emerged in Zurich as a protest against the madness of war.
+- **Fine Art Developments / 美術の動向**: Fauvism and Cubism deconstructed color and perspective in Paris, while Futurism in Italy celebrated speed and machinery. In Sweden, Hilma af Klint bypassed the academic art world by creating massive spiritualist abstract paintings under mediumistic guidance, while Dada emerged in Zurich as a protest against the madness of war.
 - **Adjacent Categories / 周辺領域**:
   - *Design*: The founding of the **Bauhaus** (1919) in Germany to unite art, craft, and industrial technology.
   - *Music*: Igor Stravinsky’s *The Rite of Spring* (1913) caused riots with its primitive rhythms, echoing the aggression of Cubist geometry.
@@ -36,7 +36,7 @@ The horizontal axis maps how concurrent historical, technological, and cultural 
 
 - **社会・政治的文脈**: 第一次世界大戦（1914〜1918年）とロシア革命（1917年）が19世紀的なオプティミズムを打ち砕く。急速な都市化と工場組立ラインの登場が労働のあり方を変貌させた。
 - **メディアと技術**: 初期映画の普及、録音技術、初期の航空技術の発達。
-- **美術の動向**: パリでフォーヴィスムやキュビスムが色彩と遠近法を解体する一方、イタリアの未来派は速度と機械を賛美した。スイスのチューリヒでは、戦争の狂気に対する抗議としてダダが誕生した。
+- **美術の動向**: パリでフォーヴィスムやキュビスムが色彩と遠近法を解体する一方、イタリアの未来派は速度と機械を賛美した。スウェーデンでは、ヒルマ・アフ・クリントが霊的導きのもとで巨大なスピリチュアル抽象絵画を制作し、アカデミックな美術界の外側で独自の道を切り拓いた。また、スイスのチューリヒでは、戦争の狂気に対する抗議としてダダが誕生した。
 - **周辺領域**:
   - *デザイン*: 芸術、工芸、工業技術の統一を目指し、ドイツで「**バウハウス**」が設立された（1919年）。
   - *音楽*: イゴール・ストラヴィンスキーの『春の祭典』（1913年）がその原始的なリズムで暴動を巻き起こし、キュビスムの幾何学的な攻撃性と共鳴した。
@@ -66,7 +66,7 @@ The horizontal axis maps how concurrent historical, technological, and cultural 
 - **Media & Technology / メディアと技術**: The rapid commercialization of television and early mainframe computers.
 - **Fine Art Developments / 美術の動向**: The NY School established dominance through Abstract Expressionism (Pollock's action painting), while Art Informel emerged in Europe. In Japan, the Kansai-based avant-garde group Gutai painted with feet and performed interactive happenings.
 - **Adjacent Categories / 周辺領域**:
-  - *Design*: Mid-century modern design (Eames chairs) emphasized organic, functional forms for mass production.
+  - *Design*: Mid-century modern design (Eames chairs) emphasized organic, functional forms for mass production. In Poland, the **Polish School of Posters** (led by Wojciech Fangor and others) bypassed state-mandated social realism by using bold colors and abstract metaphors in cinema and theater posters.
   - *Fashion*: Christian Dior's "New Look" (1947) brought back structured, opulent silhouettes, reacting against wartime fabric rationing.
   - *Craft*: Jean Dubuffet defined Art Brut (Raw Art), collecting works by patients and prisoners, challenging institutional craft standards.
   - *Music*: The birth of Rock and Roll and the early experimental electronic compositions of tape music (*musique concrète*).
@@ -75,7 +75,7 @@ The horizontal axis maps how concurrent historical, technological, and cultural 
 - **メディアと技術**: テレビの急速な商業化と、初期のメインフレーム・コンピュータの誕生。
 - **美術の動向**: ニューヨーク派が抽象表現主義（ポロックのアクション・ペインティング）で覇権を確立する一方、欧州ではアンフォルメルが隆盛。日本では関西発の前衛「具体美術協会」が足で描き、インタラクティブなハプニングを展開した。
 - **周辺領域**:
-  - *デザイン*: イームズ夫妻らによるミッドセンチュリー・モダン・デザインが、大量生産向けの有機的かつ機能的なフォルムを強調した。
+  - *デザイン*: イームズ夫妻らによるミッドセンチュリー・モダン・デザインが、大量生産向けの有機的かつ機能的なフォルムを強調した。ポーランドでは、ヴォイチェフ・ファンゴールらが主導した「ポーランド派ポスター」が、映画や演劇のポスターに大胆な色彩や抽象的なメタファーを用いることで、国家が推奨する社会主義リアリズムを回避した。
   - *ファッション*: クリスチャン・ディオールが発表した「ニュー・ルック」（1947年）が、戦時の布地配給制限への反動として、構築的で豪華なシルエットを復活させた。
   - *工芸・アウトサイダー*: ジャン・デュビュッフェがアール・ブリュットを定義し、精神病患者や囚人による創作物を収集。制度的な「工芸」の美学に対抗した。
   - *音楽*: ロックンロールの誕生と、テープレコーダーを用いたミュージック・コンクレートなど初期の電子音響音楽の実験。
@@ -152,8 +152,8 @@ The vertical axis tracks how specific creative traditions, geographic pathways, 
 ### Regional Branching: West vs. East Asia
 ### 地域的な系統と分岐：西洋と東アジア
 *   **Western Trajectories / 西洋の軌跡**:
-    The main lineage of Western modernism transitioned from the Parisian studio (Cubism, Surrealism) to the American gallery (Abstract Expressionism, Minimalism, Pop Art) during World War II. In the late 20th century, this centered model fractured into decentralized networks such as the British sensation of the YBAs, German post-industrial photography, and global post-internet networks.
-    西洋のモダニズムの主系統は、第二次大戦を機にパリの工房（キュビスム、シュルレアリスム）からアメリカの画廊（抽象表現主義、ミニマリズム、ポップアート）へと移動しました。20世紀後半には、この一極集中モデルは崩壊し、イギリスのYBAs、ドイツのポスト工業化写真、グローバルなポスト・インターネットといった多極的なネットワークへと分岐しました。
+    The main lineage of Western modernism transitioned from the Parisian studio (Cubism, Surrealism) to the American gallery (Abstract Expressionism, Minimalism, Pop Art) during World War II. In the late 20th century, this centered model fractured into decentralized networks such as the British sensation of the YBAs, German post-industrial photography, Eastern European spatial environments (Wojciech Fangor), and global post-internet networks.
+    西洋のモダニズムの主系統は、第二次大戦を機にパリの工房（キュビスム、シュルレアリスム）からアメリカの画廊（抽象表現主義、ミニマリズム、ポップアート）へと移動しました。20世紀後半には、この一極集中モデルは崩壊し、イギリスのYBAs、ドイツのポスト工業化写真、東欧の空間絵画（ヴォイチェフ・ファンゴール）、グローバルなポスト・インターネットといった多極的なネットワークへと分岐しました。
 *   **Japanese Lineages / 日本の系統**:
     Japanese art navigated the tension between imported Western oil painting styles (*Yōga*) and modernized traditional styles (*Nihonga*). Print movements split into the publisher-led collaborative system of *Shin-hanga* (revitalizing ukiyo-e) and the artist-centered individual expression of *Sōsaku-hanga*. In the post-war era, this evolved into Gutai's bodily action in Kansai, Mavo-derived Neo-Dada in Tokyo, the physical materials of the Mono-ha school, and Takashi Murakami's Superflat, which linked post-war Otaku consumer flatness to historical Edo-period flat perspective.
     日本の美術は、輸入された西洋油彩画（洋画）と近代化された伝統様式（日本画）の緊張関係を往還してきました。版画運動は、パブリッシャー主導の分業システムである「新版画」と、作家個人の自己表現を重視する「創作版画」へと分裂しました。戦後は、関西の「具体」による身体的アクション、東京のネオ・ダダ、物質そのもののあり方を問う「もの派」、および戦後オタク社会の平坦さと江戸絵画の平面構図を接続した村上隆の「**スーパーフラット**」へと展開しました。

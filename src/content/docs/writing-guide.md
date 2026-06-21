@@ -82,13 +82,27 @@ To maintain visual clarity and a premium design, we follow these strict formatti
   - Use standard double quotes (`"..."`) in English and corner brackets (`「...」`) in Japanese. Do not mix them.
   - 引用符は、歴史的人物やテキストからの文脈に即した直接的な引用にのみ使用します。
   - 強調や皮肉のために引用符を使用しないでください。
-  - 英語では標準 of 二重引用符（`"..."`）、日本語では鍵括弧（`「...」`）を使用し、これらを混在させないでください。
+  - 英語では標準の二重引用符（`"..."`）、日本語では鍵括弧（`「...」`）を使用し、これらを混在させないでください。
 
 - **Headings / 見出し**:
   - Frame headings as storytelling, evocative questions or concrete phrases (the **Gombrich Rule**).
   - Banish all academic labels (e.g., "Introduction:", "Conclusion:") and numbering (e.g., "1.").
   - 見出しは、ストーリーを想起させるような問いかけや、具体的なフレーズにします（**ゴンブリッチ・ルール**）。
   - アカデミックなラベル（例：「はじめに」「おわりに」）や、見出し番号（例：「1.」）は一切使用しません。
+
+- **Bilingual Structure / 二言語の構成**:
+  - In bilingual pages or templates containing lists, couple each language's components together. Follow the strict order: English leading paragraph, English bullets, Japanese leading paragraph, Japanese bullets. Do not interleave English and Japanese paragraphs or mix them within the same list.
+  - 二言語併記のページやリストを含むテンプレートでは、各言語の構成要素をまとめて配置します。「英語の前文、英語の箇条書き、日本語の前文、日本語の箇条書き」という順序を厳守してください。同じリスト内で日英の段落を交互に挟んだり混在させたりしないでください。
+
+- **Tone & Perspectives / トーンと複眼的視野**:
+  - Avoid overly definitive statements when expressing opinions or discussing historical trajectories. Use open, speculative, or reflective language (e.g., "we may be witnessing", "this suggests") to show openness to other perspectives.
+  - Acknowledge that historical boundaries and labels are often pragmatic constructs given for specific purposes rather than absolute truths.
+  - **Multi-Functionality of Labels**: Portray categories (such as art, design, craft) as flexible, context-dependent labels rather than absolute divisions. Acknowledge that labels are strategic speech acts serving multiple functions depending on who is using them and why, rather than a single exclusive function.
+  - **Avoid Over-Romanticizing**: Avoid overly idealized or romanticized framing of historical eras, practices, cultures, or movements (e.g., do not romanticize manual craft, "making," pre-modern societies, or artistic creation). Frame them grounded in their actual practices, contexts, and limitations.
+  - 批評的見解や歴史的推移を述べる際は、過度に断定的な表現を避け、他の可能性や解釈に対してオープンなトーンを保ちます（例：「〜かもしれません」「〜と考えられます」）。
+  - 歴史的な境界線や分類ラベルは、絶対的な真実ではなく、特定の目的や文脈に応じた便宜的な構築物であることを意識して記述します。
+  - **ラベルの多機能性**: 美術（アート）、デザイン、工芸といったカテゴリーは、絶対的な区分ではなく、文脈依存の柔軟なラベルとして扱います。これらのラベルは、使い手や意図に応じて複数の修辞的・経済的・制度的機能を果たしうるものであり、単一の排他的な目的のみを持つものではないことに留意してください。
+  - **過度なロマン化の回避**: 歴史的な時代、実践、文化、あるいは運動（工芸や「つくる行為」、前近代の社会、芸術的創造など）を、過度に理想化またはロマン化して語ることを避けます。過去の時代や地域には、それぞれ独自の社会構造、制約、限界が存在したことを客観的・文脈的に捉えた記述を心がけてください。また、日本語の文章では、直接の引用や特定の専門用語である場合を除き、一般的な動詞や概念（例：「つくる」や「つなぐ」）に対して不要な鍵括弧（「...」）を付けないでください。
 
 ---
 

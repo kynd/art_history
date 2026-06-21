@@ -8,19 +8,21 @@ This page explores the historical shifts in the meaning and practice of "art" fr
 - How has the word "art" and the act of making art shifted over time?
 - What are the etymological origins of the word (Greek *techne* and Latin *ars* as skill or technology)?
 - How did the transition from the premodern to the modern era redefine art as an autonomous aesthetic category?
-- Who benefits from the classification of something as "art," and how does the art market function as a self-sustaining value mechanism?
+- Who benefits from the classification of an object as "art"? What are the economic and social dynamics of the art market, and how does it generate or maintain value?
 - What is the relationship between the specialized category of "art" and the universal human activity of "making"?
-- In what ways does the Western fine-art paradigm create a cultural skew, categorizing non-Western creations as "craft" or "ethnographic specimens" rather than "art"?
+- What is the relationship between the Western fine-art paradigm and non-Western creative practices? How have institutions classified non-Western works, and what are the cultural and political implications of these classifications?
 - Is there a fundamental distinction between "art" and "design," or is the boundary a social construct used pragmatically to achieve specific rhetorical and economic outcomes?
+- How has the concept of "design" expanded beyond physical objects to areas like corporate strategy and problem-solving? What functions, both economic and rhetorical, does this expanded definition serve in contemporary organizations?
 
 このページでは、前近代から近代にかけての「美術（アート）」という言葉の意味と創作行為の歴史的変遷を探求します：
 - アートという言葉の意味と創作「行為」は、時代とともにどのように変化したか？
 - 言葉の語源的な起源（実用的なスキル・技術としてのギリシャ語「テクネー」とラテン語「アルス」）は何か？
 - 前近代から近代への移行期において、美術はいかにして自律的な美のカテゴリーとして再定義されたか？
-- あるオブジェクトを「アート」と分類・定義することで誰が利益を得るのか、またアート市場はいかにして自己再生産的な価値メカニズムとして機能しているか？
+- オブジェクトを「アート」と分類することで誰が利益を得るのか？アート市場の経済的・社会的ダイナミズムとはどのようなものであり、それはいかにして価値を生成・維持しているか？
 - 特権化された「アート」というカテゴリーと、人間が普遍的に行う「つくる行為（日常的な制作）」との関係はどのようなものか？
-- 西洋的な「ファインアート（純粋芸術）」のパラダイムはどのような文化的偏りを生み出し、非西洋の創造物を「美術」ではなく「工芸」や「民族学資料」として分類してきたか？
+- 西洋のファインアートのパラダイムと非西洋の創作活動との間にはどのような関係があるか？制度は非西洋の作品をいかに分類し、それらの分類にはどのような文化的・政治的意味があるか？
 - 「美術」と「デザイン」の間に本質的な境界線はあるのか、あるいはその境界は特定のレトリック的・経済的効果を得るために実用的に利用される社会的構築物にすぎないのか？
+- 「デザイン」の概念は、いかにして物理的オブジェクトを超えて企業戦略や課題解決などの領域へと拡張したか？この拡張された定義は、現代の組織においてどのような経済的・修辞的（レトリック的）機能を果たしているか？
 
 ---
 
@@ -115,6 +117,9 @@ The modern system of art was crystallized in the mid-18th century, separating ae
   - As explained by the **Institutional Theory of Art** (e.g., George Dickie, Arthur Danto), an object becomes art when the "Artworld" (museums, critics, galleries) consecrates it as such.
   - This creates a self-fulfilling prophecy: institutional validation generates belief in the work's aesthetic value, which drives demand and raises prices in the market. The high market value then reinforces the work's cultural importance, perpetuating a loop where belief and price sustain each other.
   - The industry operates through a "denial of the economy," presenting art as a disinterested, sacred realm of pure aesthetics to elevate its symbolic capital, which paradoxically maximizes its economic value.
+- **Alternative Livelihood and Preservation Functions**:
+  - Beyond elite wealth preservation, the classification of objects as "art" plays a vital role in documenting, preserving, and institutionalizing cultural heritage that might otherwise face neglect or destruction, facilitating necessary **preservation functions**.
+  - For many local communities and indigenous craftspeople, the global validation and economic infrastructure of the art market provide essential sources of income and livelihood, allowing traditional skills to survive in a modern globalized economy.
 
 - **「アート」という分類から誰が利益を得るのか**:
   - あるオブジェクトを（実用品や工芸品ではなく）「アート」と定義することは、芸術家、画商、ギャラリー、オークションハウス、学芸員、コレクターといった特定のネットワークに多大な利益をもたらします。彼らは**象徴資本**（社会的威信やステータス）と**経済資本**（金銭的価値）の両方を取引しています。
@@ -123,6 +128,9 @@ The modern system of art was crystallized in the mid-18th century, separating ae
   - **芸術制度論**（ジョージ・ディッキーやアーサー・ダントなど）が指摘するように、オブジェクトは「アートワールド」（美術館、批評家、ギャラリーなどの制度）によって承認されることで初めて「アート」になります。
   - これは自己成就的な予言を生み出します。制度的承認が作品の美的な価値への「信仰（合意）」を生み出し、それが市場の需要を高め、価格を引き上げます。そして、高い市場価値がその作品の文化的価値をさらに強固にするという、信仰と価格が相互に支え合う自己完結的なループが形成されます。
   - この産業は、アートを経済活動から切り離された「純粋で神聖な美の領域」として見せる（経済の隠蔽）ことで、象徴資本を極大化し、結果としてパラドックス的にその経済価値を高めています。
+- **保存と生計維持というオルタナティブな視点**:
+  - エリート層の資産保全にとどまらず、オブジェクトを「アート」として分類・認定することは、歴史的・文化的な遺産をドキュメントし、保存し、制度的に保護することで、ネグレクトや破壊から守る「**保存・保護機能**」としての極めて重要な役割も果たします。
+  - 多くのローカルコミュニティや先住民の職人にとって、アート市場のグローバルな承認と経済インフラは、生活を支える重要な収入源となり、近代のグローバル化された経済の中で伝統技術を継承・存続させることを可能にしています。
 
 ---
 
@@ -139,6 +147,9 @@ The modern system of art was crystallized in the mid-18th century, separating ae
 - **Reconnecting Art and Making**:
   - Modern anthropology and global art history increasingly reject this division, recognizing that for many cultures, aesthetic expression, sacred ritual, and functional utility are inseparable.
   - Overcoming this Eurocentric skew requires acknowledging diverse global traditions of making on their own terms, rather than forcing them into the artificial Western binary of "autonomous art" vs. "functional craft."
+- **Cross-Cultural Agency and Synthesis**:
+  - While colonial taxonomies historically marginalized non-Western works, the contact between different aesthetic paradigms also facilitated global appreciation and **creative cross-pollination**.
+  - Non-Western creators have never been merely passive subjects of Western classification; they have actively appropriated, subverted, and synthesized Western fine-art methodologies with their own indigenous symbols to express complex modern identities.
 
 - **日常の「つくる行為」と「美術」の分離**:
   - 人類は古くから、衣服を織り、粘土を焼き、木を削り、壁面に描くといった「つくる行為（making）」を通じて、物質的、儀礼的、社会的な環境と関わってきました。
@@ -150,6 +161,9 @@ The modern system of art was crystallized in the mid-18th century, separating ae
 - **アートと「つくる行為」の再統合**:
   - 現代の人類学やグローバルな美術史は、この境界線を解体しつつあります。多くの文化において、美的な表現、神聖な儀礼、そして実用的な機能性は不可分だからです。
   - この西洋中心的な偏りを克服するためには、非西洋の多様な制作の実践を、西洋独自の「自律的な美」か「実用的な工芸」かという無理な二分法に押し込めるのではなく、それぞれの文化自身の文脈において評価することが求められています。
+- **異文化間の主体的なシナジーと統合**:
+  - 歴史的に西洋の分類体系が非西洋作品を周辺化してきた一方で、異なる美的パラダイム間の接触は、グローバルな相互理解と創造的な「**相互影響**」をもたらしました。
+  - 非西洋の制作者たちは、単に西洋の分類に受動的に従うだけの存在ではありません。彼らはむしろ、西洋の純粋芸術の技法や制度を能動的に借用し、独自の象徴と融合させることで、複雑な近現代のアイデンティティを自発的に表現してきました。
 
 ---
 
@@ -161,22 +175,61 @@ The modern system of art was crystallized in the mid-18th century, separating ae
   - The separation is a modern social and institutional construct. Historically (prior to the Industrial Revolution and the rise of capitalist specialization), the designer and the artist were the same person—an artisan commanding a trade.
 - **Rhetorical and Pragmatic Utility**:
   - The classification of an object as either "art" or "design" is often a strategic act of labeling, deployed to achieve specific rhetorical, market, or institutional outcomes desired by the user of the words:
-    - **Labeling as "Art"**: Elevates the object to the realm of *autonomous expression, prestige, and speculative value*. A piece of furniture labeled as "design art" escapes standard consumer pricing and becomes an investable asset in the gallery/auction market.
-    - **Labeling as "Design"**: Relates the creation to *utility, democratization, and client-centered problem-solving*. Labeling an expressive work as "design" can make it feel more accessible, justify its industrial production, or make it eligible for corporate funding.
+    - **Labeling as "Art"**: Can be used, among other functions, to elevate the object to the realm of *autonomous expression, prestige, and speculative value*. For instance, it may allow a piece of furniture labeled as "design art" to escape standard consumer pricing and become an investable asset in the gallery/auction market.
+    - **Labeling as "Design"**: Often functions to relate the creation to *utility, democratization, and client-centered problem-solving*, though it can serve other rhetorical purposes. It can help make an expressive work feel more accessible, justify its industrial production, or make it eligible for corporate funding.
 - **Pragmatist Re-integration (John Dewey)**:
   - Pragmatist philosophers like John Dewey argued that the separation of "high art" from functional, everyday experience is an artificial historical anomaly. 
   - Aesthetic quality is not a special property reserved for autonomous museum objects; rather, it is a potential quality of any human activity, bridging the gap between functional design and expressive art.
+- **Critical Awareness over Simple Dissolution**:
+  - We reject the simplistic notion that boundaries between art, design, and craft are simply "disappearing." In reality, these borders remain strictly guarded by powerful economic institutions, gallery systems, academic departments, and intellectual property frameworks.
+  - *Context-Dependent Power Dynamics*: Trying to define an object as "art" or "design" in a vacuum—stripped of *who* is applying the label, *why* they are applying it, and in *what context*—is a meaningless exercise. Labels are speech acts deployed by specific actors (curators, corporations, collectors) to serve particular interests.
+  - *Critical Agency*: Rather than idealizing the pre-modern era as a borderless creative utopia, creators and viewers must cultivate a critical literacy of these labels. Understanding how and by whom these categories are used allows us to navigate them strategically and self-consciously, rather than treating them as ontological truths.
 
 - **本質的な境界の不在**:
   - 哲学・美学的には、「美術（アート）」と「デザイン」の間に客観的かつ固定された境界線は存在しません。両者はいずれも、視覚的な計画、空間的配置、美的な実行、および構造的選択という核心的な創造プロセスを共有しています。
   - 両者の分断は近代の社会的・制度的構築物です。産業革命と資本主義的な専門分化以前の歴史においては、デザイナーと芸術家は同一の「職人・技能者」であり、区別はありませんでした。
 - **修辞的・実用的なラベリングの効果**:
   - あるオブジェクトを「美術」と呼ぶか「デザイン」と呼ぶかは、多くの場合、言葉の使い手が目的に応じて特定の効果（レトリック的・市場的・制度的な効果）を引き出すための戦略的なラベリング行為です。
-    - **美術と呼ぶ場合**: そのオブジェクトを**自律的表現、威信、そして投機的価値**の領域へと引き上げます。例えば、椅子を「デザインアート」と呼ぶことで、一般的な消費財としての価格体系から逸脱させ、ギャラリーやオークション市場における投資対象（資産）へと変貌させることができます。
-    - **デザインと呼ぶ場合**: そのオブジェクトを**実用性、民主化、指示された課題解決**へと結びつけます。表現性の高い作品を「デザイン」と表現することで、一般大衆へのアクセシビリティを高めたり、産業的な大量生産を正当化したり、企業からの資金調達を容易にしたりできます。
+    - **美術と呼ぶ場合**: 他の機能に加えて、そのオブジェクトを**自律的表現、威信、および投機的価値**の領域へと引き上げるために用いられることがあります。例えば、椅子を「デザインアート」と呼ぶことで、一般的な消費財としての価格体系から逸脱させ、ギャラリーやオークション市場における投資対象（資産）へと変貌させることが可能になります。
+    - **デザインと呼ぶ場合**: 主にオブジェクトを**実用性、民主化、指示された課題解決**へと結びつけるために機能しますが、用途はそれだけにとどまりません。表現性の高い作品を「デザイン」と表現することで、一般大衆へのアクセシビリティを高めたり、産業的な大量生産を正当化したり、企業からの資金調達を容易にしたりする手段として用いられます。
 - **プラグマティズムによる再統合（ジョン・デューイ）**:
   - ジョン・デューイのようなプラグマティズムの哲学者は、美術館に飾られる「純粋芸術」と、日常的で実用的な経験（デザインなど）を切り離すことは、不自然な歴史的逸脱であると論じました。
   - 美的価値とは、自律した美術品のみに宿る特殊な性質ではなく、あらゆる人間活動に宿りうる可能性であり、機能的なデザインと表現的な美術のギャップを埋めるものであると捉えられます。
+- **境界の「解体」に対する批判的視座**:
+  - 美術、デザイン、工芸を隔てる境界線が単に「消滅・解体」しつつあるという安易な見方を退けます。現実には、これらの境界線はギャラリーの市場システム、大学の学術的専門区分、意匠権や著作権といった法的な枠組みによって、今なお厳密に維持・ガードされているからです。
+  - *文脈依存の権力力学*: 「誰が」「なぜ」「いかなる文脈で」そのラベルを貼っているのかという背景から切り離して、オブジェクトを孤立した概念としての「美術」や「デザイン」として定義・分類しようとする試みは無意味です。ラベルとは、特定の主体（学芸員、企業、コレクターなど）が自己の利益や目的のために用いる実用的な修辞（スピーチ・アクト）にすぎません。
+  - *批評的・主体的なリテラシー*: 前近代を「境界線のない理想的な時代（ユートピア）」として美化したり、境界線が都合よく消滅すると妄想したりするのではなく、作り手や受け手はこれらのラベルを「戦略的構築物」として見破る批評的リテラシーを養うべきです。それらを社会・歴史的文脈の中で捉え直すことで初めて、絶対的な真実としてではなく、自己の目的に応じて戦略的に境界線と向き合う主体性が得られます。
+
+---
+
+## 8. The Modern Expansion and Commodification of "Design"
+## 8. 現代における「デザイン」の拡張と商品化（コモディティ化）
+
+- **From Object to Process: The Rise of Design Thinking**:
+  - In the early 21st century, popularized by firms like **IDEO** (e.g., David Kelley) and Stanford’s d.school, the term "design" underwent a massive expansion. It shifted from the creation of physical artifacts (styling, shaping, material execution) to a generalized cognitive framework for problem-solving: **Design Thinking** and **Human-Centered Design (HCD)**.
+  - Design was rebranded as a democratic strategic capability accessible to everyone, regardless of their background in art or craft, centered around empathy, brainstorming, and rapid prototyping.
+- **The Critique of *Innovation Theater***:
+  - Many designers and critics (such as Natasha Jen) have criticized this expansion as *innovation theater*. They argue that design thinking has been reduced to a standardized commodity—characterized by Post-it notes, whiteboards, and workshops—without the actual material execution, rigorous critique, or deep aesthetic expertise required of true design practice.
+  - In complex socio-political contexts, design thinking is criticized for framing structural or political problems as simple, empathy-driven workshops, abstracting away systemic and resource-based conflicts.
+- **Strategic Justification and Sales**:
+  - For management consultancies and corporations, "design" has become a highly convenient buzzword used for corporate justification and sales branding. 
+  - By labeling processes as "human-centric" or "empathic," companies can justify high consulting fees, build moral authority, and defend value over price in sales. Here, the "design" label functions as a rhetorical shielding mechanism to make corporate strategies and sales pitches appear democratic, benevolent, and consumer-oriented.
+- **Public Utility of Expanded Design**:
+  - Despite critiques of innovation theater, the expansion of design methodologies has also driven genuine democratization in public services and social welfare.
+  - Incorporating human-centered design principles in policy-making, healthcare access, and community organization has empowered grassroots actors to participate directly in shaping the systems that govern their lives, shifting design from a commercial commodity to a tool for collective problem-solving.
+
+- **モノからプロセスへ：「デザイン思考」の台頭**:
+  - 21世紀初頭、**IDEO**（デビッド・ケリーなど）やスタンフォード大学のd.schoolらの推進により、「デザイン」という言葉は爆発的な拡張を遂げました。それは、物理的なプロダクトを構築する行為（スタイリング、造形、素材の選定）から、あらゆる課題解決に応用可能な汎用的思考フレームワークである「**デザイン思考**」や「**人間中心設計**」へと移行したのです。
+  - デザインは、美術や工芸の専門的トレーニングを受けていないすべての人に開かれた、共感、ブレインストーミング、および迅速なプロトタイピングを中心とする民主的な「戦略的スキル」として再定義されました。
+- **「イノベーションの劇場化」に対する批判**:
+  - 多くのデザイナーや批評家（ナターシャ・ジェンなど）は、この拡張を「イノベーションの劇場化（イノベーション・シアター）」であると批判しています。デザイン思考が、付箋、ホワイトボード、およびワークショップといった記号的なプロセスに矮小化され、本質的な造形の実行力、厳密な批評性、あるいは美的な専門知識を欠いたまま「標準化された商品」として消費されているという指摘です。
+  - 複雑な社会政治的文脈において、デザイン思考は構造的・政治的な対立を「共感型ワークショップ」に還元し、システム的な格差や利害対立といった不都合な現実を覆い隠してしまうと批判されています。
+- **戦略的弁明とセールスへの応用**:
+  - 経営コンサルタントや大企業にとって、「デザイン」は企業の弁明（自己正当化）やセールス・ブランディングにおいて非常に都合の良いバズワードとなっています。
+  - プロセスを「人間中心」や「共感に基づくもの」と表現することで、企業は高額なコンサルティング費用を正当化し、企業の道徳的権威を構築し、販売において「価格よりも価値」を擁護することができます。ここでの「デザイン」というラベルは、企業戦略やセールストークを民主的で、慈悲深く、消費者思いなものであると見せるための、修辞的なシールド（盾）として機能しているのです。
+- **拡張されたデザインの公共的有用性**:
+  - 「イノベーションの劇場化」という批判の一方で、デザイン手法の拡張は、公共サービスや社会福祉の分野において真の民主化を推進してきました。
+  - 政策立案、医療へのアクセス向上、ローカルなコミュニティ組織において人間中心設計の思想を取り入れることは、草の根のアクターが自身の生活を左右する制度の設計に直接参加することを可能にし、デザインを単なる商業的コモディティから共同的課題解決の強力な道具へと変貌させています。
 
 ---
 
@@ -190,3 +243,6 @@ The modern system of art was crystallized in the mid-18th century, separating ae
 - [Arthur Danto: The Artworld](https://www.jstor.org/stable/2022937)
 - [Tim Ingold: Making: Anthropology, Archaeology, Art and Architecture](https://www.routledge.com/Making-Anthropology-Archaeology-Art-and-Architecture/Ingold/p/book/9780415567237)
 - [John Dewey: Art as Experience](https://www.perlego.com/book/2691763/art-as-experience-pdf)
+- [Natasha Jen: Design Thinking is Bullshit](https://99u.adobe.com/videos/55967/natasha-jen-design-thinking-is-bullshit)
+- [Lucy Kimbell: Rethinking Design Thinking](https://www.academia.edu/1963050/Rethinking_Design_Thinking_Part_I)
+- [Bruce Nussbaum: Design Thinking Is A Failed Experiment](https://www.fastcompany.com/1663558/design-thinking-is-a-failed-experiment-so-whats-next)

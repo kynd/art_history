@@ -16,6 +16,15 @@ This page outlines the general timeline and connection between political events 
 
 ---
 
+## Decadals
+## 年代別研究
+
+To explore the critical questions, perspectives, and methodological tools used to build a fair, polycentric, and engaging narrative across eras, see the [Decadals](file:///Users/yonedakenichi/Documents/dev/art_history/src/content/docs/research-and-discussions/decadals/index.md) (or [http://localhost:4324/research-decadals/](http://localhost:4324/research-decadals/)).
+
+公平で非線形、かつ魅力的な歴史ナラティブを構築するための核心的な問いや視点、および方法論的ツールについては、[年代別研究](file:///Users/yonedakenichi/Documents/dev/art_history/src/content/docs/research-and-discussions/decadals/index.md)（または [http://localhost:4324/research-decadals/](http://localhost:4324/research-decadals/)）を参照してください。
+
+---
+
 ## Chronological Parallel Timeline / 年代別並行タイムライン
 
 ### 1900s – 1910s: The Birth of Modernism & The Great War
@@ -27,6 +36,7 @@ This page outlines the general timeline and connection between political events 
   - **Fauvism** (Matisse): Bold, non-naturalistic color.
   - **Cubism** (Picasso, Braque): Deconstruction of perspective and form.
   - **German Expressionism** (*Die Brücke*, *Der Blaue Reiter*): Raw, emotional, subjective experience.
+  - **Spiritualist Abstraction** (Hilma af Klint): Massive abstract paintings initiated in 1906, created under spiritual guidance outside the male-dominated academy.
 - **Japanese Art**:
   - Late Meiji and Taishō eras. Import of Western oil painting styles (*Yōga*) led by Kuroda Seiki.
   - **Shin-hanga (New Prints)** (Watanabe Shōzaburō): Revitalization of traditional *ukiyo-e* collaborative printmaking, integrated with Western light and perspective.
@@ -39,6 +49,7 @@ This page outlines the general timeline and connection between political events 
   - **フォーヴィスム（野獣派）**（マティス）：大胆で非写実的な色彩の導入。
   - **キュビスム**（ピカソ、ブラック）：視点と形態の解体。
   - **ドイツ表現主義**（ブリュッケ、青騎士）：生の感情や主観的体験の表現。
+  - **スピリチュアル抽象**（ヒルマ・アフ・クリント）：男性中心のアカデミーの外側で、霊的導きのもと1906年から制作された巨大な抽象絵画。
 - **日本の美術**:
   - 明治後期〜大正時代。黒田清輝らによる西洋の油彩画様式（洋画）の導入。
   - **新版画**（渡辺庄三郎ら）：西洋的な光や遠近法を取り入れ、伝統的な浮世絵の分業システムを復興。
@@ -109,6 +120,7 @@ This page outlines the general timeline and connection between political events 
 - **Western Art**:
   - **Abstract Expressionism** (Pollock, Rothko): NY School dominance. Focus on action painting (physical gesture) and color field (emotional space).
   - **Art Informel**: European parallel focusing on raw matter, texture, and spontaneous gesture.
+  - **Polish School of Posters / Op Art** (Wojciech Fangor): State-commissioned graphic designs and spatial painting environments that integrated painterly abstraction and color theory, bypassing social realism.
 - **Japanese Art**:
   - **Gutai Art Association** (Yoshihara Jirō, Shiraga Kazuo): Radical avant-garde group in Kansai. The name means "concrete/embodiment." Emphasized physical action (e.g., Shiraga painting with his feet) and transient installations.
   - **Yomiuri Indépendant Exhibitions**: Unjuried exhibition platform in Tokyo that became a breeding ground for experimental art.
@@ -120,6 +132,7 @@ This page outlines the general timeline and connection between political events 
 - **西欧美術**:
   - **抽象表現主義**（ポロック、ロスコ）：ニューヨーク派の台頭。アクション・ペインティング（身体的ジェスチャー）やカラーフィールド（感情の空間）へのフォーカス。
   - **アンフォルメル**：生の物質、質感、即興的ジェスチャーに焦点を当てたヨーロッパの並行運動。
+  - **ポーランド派ポスター／オプ・アート**（ヴォイチェフ・ファンゴール）：国家に委託されたグラフィックデザインや空間絵画でありながら、絵画的抽象や色彩理論を取り入れることで社会主義リアリズムを回避した。
 - **日本の美術**:
   - **具体美術協会**（吉原治良、白髪一雄ら）：関西発の前衛グループ。「具体」とは精神と物質の直接的結合を意味し、身体的アクション（足で描く白髪など）や一時的な展示を重視。
   - **読売アンデパンダン展**：無審査の公募展として、東京における実験的・前衛的な美術の温床となった。

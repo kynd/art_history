@@ -103,9 +103,10 @@ const breadcrumbs = buildBreadcrumbs(filePath, visibleDocs);
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="notranslate" translate="no">
 <head>
   <meta charset="UTF-8" />
+  <meta name="google" content="notranslate" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{title}</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.25/dist/katex.min.css" crossorigin="anonymous" />
@@ -906,7 +907,7 @@ const breadcrumbs = buildBreadcrumbs(filePath, visibleDocs);
             <a href={base || '/'}>Art History / 美術史</a>
           </div>
           <div class="site-footer-right">
-            <span>© {new Date().getFullYear()} Art History</span>
+            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA</a>
           </div>
         </footer>
       </div>

@@ -84,7 +84,14 @@ To maintain visual clarity, premium design, and a narrative tone, follow these g
   - **No Academic Labels or Colons:** Avoid dry, textbook-like, or overly academic headings. Do not use structural labels (e.g., "Introduction:", "Conclusion:", "Section 2:"), colons to attach subtitles, or parallel dry translations.
   - **No Numbering:** Never include section/chapter numbers (e.g., "1.", "Chapter A", "Part I").
   - **Narrative, Evocative & Concrete:** Choose headings that are warm, curiosity-inducing, and humble, using concrete metaphors or storytelling phrases (e.g., use "History as a Conversation" instead of "Introduction", "Measuring the bottomless well" instead of "Explaining Scale", "When art was simply a skill" instead of "Techne and Ars").
-  - **Dialogue & Questions:** Frame headings as conversational questions or cues where appropriate (e.g., "Who decides what is art?" or "There is no such thing as Art?").
+- **Bilingual Structure:**
+  - **Coupled Ordering:** In bilingual pages or templates containing lists, couple each language's components together. Follow the strict order: English leading paragraph, English bullets, Japanese leading paragraph, Japanese bullets. Do not interleave English and Japanese paragraphs or mix them within the same list.
+
+- **Tone & Perspectives:**
+  - **Avoid Overly Definitive Tone:** When expressing opinions, critiques, or historical trajectory theories, avoid absolute claims. Use open, speculative, or reflective language (e.g., *we may be returning to*, *this suggests*) to show openness to other perspectives.
+  - **Acknowledge Pragmatic Constructs:** Frame historical categories, boundaries, and divisions as context-dependent and pragmatic constructs designed for specific purposes rather than absolute truths.
+  - **Pragmatic Labels and Multi-Functionality:** Portray categories (such as art, design, craft) as flexible, context-dependent labels rather than absolute divisions. Avoid describing labels as serving only a single binary purpose; explain that words are strategic speech acts that can serve multiple rhetorical, economic, and institutional functions depending on who is using them and why.
+  - **Avoid Over-Romanticizing:** Avoid overly idealized or romanticized framing of historical eras, practices, cultures, or movements (e.g., do not romanticize manual craft, "making," pre-modern societies, or artistic creation). Frame them grounded in their actual practices, contexts, and limitations.
 
 ---
 
@@ -96,5 +103,12 @@ After writing or editing any page, perform a self-review pass before concluding 
 - **Accuracy & Consistency:** Confirm historical details, names, dates, and formatting conventions are accurate and consistent across the workspace.
 - **Bilingual Relationship:** Ensure the English and Japanese versions align naturally, conveying the same contextual meaning without awkward literal or word-for-word translation.
 - **Editorial Compliance:** Check that bolding is restricted to key concepts once, quotation marks are reserved strictly for direct quotes (with CJK bracket enclosing rules satisfied), and headings strictly follow the narrative Gombrich Rule.
+
+---
+
+## 7. Git / Commit Rule
+
+- **Do Not Commit or Push Automatically**: Never run `git commit` or `git push` commands unless the user explicitly instructs you to do so.
+
 
 
